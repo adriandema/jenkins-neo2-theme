@@ -4,7 +4,7 @@ module.exports = function (grunt) {
     var pkg = grunt.file.readJSON('package.json');
 
     var lessFiles = {
-        "dist/neo-light.css":"less/style.less", //base style
+        "dist/neo-light.css":"less/style.less", 
         "dist/red.css": "less/red.less",
         "dist/pink.css": "less/pink.less",
         "dist/purple.css": "less/purple.less",
