@@ -21,9 +21,7 @@ with modern versions of Jenkins.
 
 ## Screenshots
 
-![Start page](img/screenshot1.png)
-![Job page](img/screenshot2.png)
-
+![Start page](img/screenshot1.png)![Job page](img/screenshot2.png)![Job page](img/greenscreen.png)![Job page](img/blue-greyscreen.png)![Job page](img/pinkscreen.png)![Job page](img/purplescreen.png)
 
 ## Installation
 
